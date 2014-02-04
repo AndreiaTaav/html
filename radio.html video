@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+    <html lang="pt-br">
+        <head>
+            <title>Danca Contempor&acirc;nea</title>
+            <meta charset="UTF-8"/>
+        </head>
+        <body background="sapa.jpg">
+            
+        <center><h4><font color="white">Assista e se envolva com a express&atilde;o do corpo que brilha a cada passo:</font></h4></center>
+
+<center>
+    <video width="320" height="240" controls>
+    <source src="video/video.webm" type="video/webm"/>
+</video>
+</center>
+
+        <center><h4><font color="white">Assista e perceba o poder da danca que transfere cada movimento :</font></h4></center>
+
+<center>
+    <video width="320" height="240" controls>
+    <source src="video/video1.webm" type="video/webm"/>
+</video>
+</center>
+    
+        </body>
+    </html>
+    
